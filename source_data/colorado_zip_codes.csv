@@ -1,0 +1,663 @@
+﻿zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+80001,PO BOX,0,Arvada,,,CO,Jefferson County,America/Denver,303,NA,US,39.82,-105.1,819
+80002,STANDARD,0,Arvada,,,CO,Jefferson County,America/Denver,303720,NA,US,39.79,-105.11,17430
+80003,STANDARD,0,Arvada,Westminster,,CO,Jefferson County,America/Denver,303,NA,US,39.83,-105.06,31840
+80004,STANDARD,0,Arvada,,,CO,Jefferson County,America/Denver,303,NA,US,39.82,-105.1,32850
+80005,STANDARD,0,Arvada,Westminster,,CO,Jefferson County,America/Denver,303,NA,US,39.85,-105.13,27560
+80006,PO BOX,0,Arvada,,,CO,Jefferson County,America/Denver,303,NA,US,39.82,-105.1,741
+80007,STANDARD,0,Arvada,,,CO,Jefferson County,America/Denver,303,NA,US,39.86,-105.19,17930
+80010,STANDARD,0,Aurora,,,CO,Arapahoe County,America/Denver,303720,NA,US,39.74,-104.86,33890
+80011,STANDARD,0,Aurora,"Buckley AFB, Buckley Air Force Base","Buckley Air Natl Guard Base, Buckley Ang",CO,Arapahoe County,America/Denver,303720,NA,US,39.74,-104.78,47370
+80012,STANDARD,0,Aurora,Denver,,CO,Arapahoe County,America/Denver,303720,NA,US,39.69,-104.81,43740
+80013,STANDARD,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.66,-104.77,69860
+80014,STANDARD,0,Aurora,Denver,,CO,Arapahoe County,America/Denver,720303,NA,US,39.66,-104.84,35830
+80015,STANDARD,0,Aurora,Centennial,,CO,Arapahoe County,America/Denver,720,NA,US,39.63,-104.78,67360
+80016,STANDARD,0,Aurora,"Centennial, Foxfield",,CO,Arapahoe County,America/Denver,720,NA,US,39.6,-104.71,63540
+80017,STANDARD,0,Aurora,,,CO,Arapahoe County,America/Denver,720,NA,US,39.7,-104.79,33590
+80018,STANDARD,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.69,16100
+80019,STANDARD,0,Aurora,,,CO,Adams County,America/Denver,303,NA,US,39.79,-104.7,3960
+80020,STANDARD,0,Broomfield,Westminster,,CO,Broomfield County,America/Denver,303,NA,US,39.94,-105.06,48030
+80021,STANDARD,0,Broomfield,Westminster,,CO,Jefferson County,America/Denver,303,NA,US,39.89,-105.11,31960
+80022,STANDARD,0,Commerce City,Denver,Irondale,CO,Adams County,America/Denver,303,NA,US,39.88,-104.8,52760
+80023,STANDARD,0,Broomfield,"Thornton, Westminster",,CO,Broomfield County,America/Denver,303,NA,US,39.96,-105.02,25190
+80024,PO BOX,0,Dupont,,,CO,Adams County,America/Denver,303,NA,US,39.84,-104.92,425
+80025,PO BOX,0,Eldorado Springs,Eldorado Sprg,,CO,Boulder County,America/Denver,303,NA,US,39.94,-105.28,210
+80026,STANDARD,0,Lafayette,,,CO,Boulder County,America/Denver,303,NA,US,39.99,-105.09,29840
+80027,STANDARD,0,Louisville,Superior,,CO,Boulder County,America/Denver,303,NA,US,39.96,-105.14,32510
+80028,UNIQUE,1,Louisville,,Storage Technology Corp,CO,Boulder County,America/Denver,303,NA,US,39.95,-105.14,0
+80030,STANDARD,0,Westminster,,,CO,Adams County,America/Denver,303,NA,US,39.83,-105.04,13330
+80031,STANDARD,0,Westminster,,,CO,Adams County,America/Denver,303,NA,US,39.88,-105.05,33850
+80033,STANDARD,0,Wheat Ridge,Denver,,CO,Jefferson County,America/Denver,303,NA,US,39.77,-105.09,22240
+80034,PO BOX,0,Wheat Ridge,,,CO,Jefferson County,America/Denver,303,NA,US,39.77,-105.09,543
+80035,PO BOX,0,Westminster,,,CO,Jefferson County,America/Denver,303,NA,US,39.88,-105.05,603
+80036,PO BOX,0,Westminster,,,CO,Jefferson County,America/Denver,303,NA,US,39.88,-105.05,346
+80037,PO BOX,0,Commerce City,,,CO,Adams County,America/Denver,303,NA,US,39.86,-104.86,638
+80038,PO BOX,0,Broomfield,,,CO,Broomfield County,America/Denver,303,NA,US,39.94,-105.06,636
+80040,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,517
+80041,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,569
+80042,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,479
+80044,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,692
+80045,STANDARD,0,Aurora,,,CO,Adams County,America/Denver,720,NA,US,39.75,-104.84,500
+80046,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,706
+80047,PO BOX,0,Aurora,,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.81,1458
+80101,STANDARD,0,Agate,,,CO,Elbert County,America/Denver,719,NA,US,39.47,-103.95,360
+80102,STANDARD,0,Bennett,,,CO,Adams County,America/Denver,303,NA,US,39.75,-104.42,6320
+80103,STANDARD,0,Byers,,,CO,Arapahoe County,America/Denver,303,NA,US,39.71,-104.22,2640
+80104,STANDARD,0,Castle Rock,,,CO,Douglas County,America/Denver,303,NA,US,39.37,-104.85,33990
+80105,STANDARD,0,Deer Trail,,,CO,Arapahoe County,America/Denver,719303720,NA,US,39.61,-104.04,1610
+80106,STANDARD,0,Elbert,,Black Forest,CO,El Paso County,America/Denver,719,NA,US,39.22,-104.53,4510
+80107,STANDARD,0,Elizabeth,,,CO,Elbert County,America/Denver,719,NA,US,39.36,-104.6,13790
+80108,STANDARD,0,Castle Rock,Castle Pines,,CO,Douglas County,America/Denver,303,NA,US,39.45,-104.85,31980
+80109,STANDARD,0,Castle Rock,,,CO,Douglas County,America/Denver,303,NA,US,39.36,-104.9,26140
+80110,STANDARD,0,Englewood,"Cherry Hills, Cherry Hills Village, Cherry Hl Vlg, Greenwood Village, Greenwood Vlg, Sheridan",,CO,Arapahoe County,America/Denver,303,NA,US,39.64,-104.99,19830
+80111,STANDARD,0,Englewood,"Centennial, Cherry Hills, Cherry Hills Village, Cherry Hl Vlg, Greenwood Village, Greenwood Vlg",,CO,Arapahoe County,America/Denver,303,NA,US,39.61,-104.88,31320
+80112,STANDARD,0,Englewood,"Centennial, Greenwood Village, Greenwood Vlg",Lone Tree,CO,Arapahoe County,America/Denver,303720,NA,US,39.58,-104.86,33180
+80113,STANDARD,0,Englewood,"Cherry Hills, Cherry Hills Village, Cherry Hl Vlg",,CO,Arapahoe County,America/Denver,303,NA,US,39.64,-104.96,18920
+80116,STANDARD,0,Franktown,,,CO,Douglas County,America/Denver,303,NA,US,39.38,-104.75,4800
+80117,STANDARD,0,Kiowa,,,CO,Elbert County,America/Denver,719,NA,US,39.34,-104.46,2750
+80118,STANDARD,0,Larkspur,,,CO,Douglas County,America/Denver,303,NA,US,39.18,-104.89,5950
+80120,STANDARD,0,Littleton,,,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,25700
+80121,STANDARD,0,Littleton,"Centennial, Cherry Hills Village, Cherry Hl Vlg, Greenwood Village, Greenwood Vlg","Cherry Hills, Grants Ranch",CO,Arapahoe County,America/Denver,303,NA,US,39.61,-104.95,17270
+80122,STANDARD,0,Littleton,Centennial,,CO,Arapahoe County,America/Denver,303720,NA,US,39.58,-104.95,30790
+80123,STANDARD,0,Littleton,"Bow Mar, Columbine Valley, Columbine Vly, Denver, Lakewood",Grants Ranch,CO,Jefferson County,America/Denver,303720,NA,US,39.62,-105.07,42770
+80124,STANDARD,0,Lone Tree,Littleton,Lonetree,CO,Douglas County,America/Denver,303720,NA,US,39.53,-104.89,21110
+80125,STANDARD,0,Littleton,Roxborough,,CO,Douglas County,America/Denver,303,NA,US,39.49,-105.05,12740
+80126,STANDARD,0,Littleton,"Hghlnds Ranch, Highlands Ranch",,CO,Douglas County,America/Denver,303720,NA,US,39.54,-104.96,43390
+80127,STANDARD,0,Littleton,Denver,,CO,Jefferson County,America/Denver,303720,NA,US,39.57,-105.14,43830
+80128,STANDARD,0,Littleton,,,CO,Jefferson County,America/Denver,303,NA,US,39.56,-105.08,34730
+80129,STANDARD,0,Littleton,"Hghlnds Ranch, Highlands Ranch",,CO,Douglas County,America/Denver,303720,NA,US,39.54,-105,29300
+80130,STANDARD,0,Littleton,"Hghlnds Ranch, Highlands Ranch",,CO,Douglas County,America/Denver,303720,NA,US,39.54,-104.93,26750
+80131,PO BOX,0,Louviers,,,CO,Douglas County,America/Denver,303,NA,US,39.48,-105.01,227
+80132,STANDARD,0,Monument,,Woodmoor,CO,El Paso County,America/Denver,719,NA,US,39.1,-104.85,28030
+80133,STANDARD,0,Palmer Lake,,,CO,El Paso County,America/Denver,719,NA,US,39.1,-104.98,2550
+80134,STANDARD,0,Parker,Lone Tree,,CO,Douglas County,America/Denver,303,NA,US,39.5,-104.76,75100
+80135,STANDARD,0,Sedalia,Deckers,,CO,Douglas County,America/Denver,303720,NA,US,39.43,-104.97,3880
+80136,STANDARD,0,Strasburg,,,CO,Adams County,America/Denver,303,NA,US,39.73,-104.3,5830
+80137,STANDARD,0,Watkins,,,CO,Arapahoe County,America/Denver,303,NA,US,39.75,-104.6,1230
+80138,STANDARD,0,Parker,,,CO,Douglas County,America/Denver,303,NA,US,39.52,-104.67,32860
+80150,PO BOX,0,Englewood,,,CO,Arapahoe County,America/Denver,303,NA,US,39.64,-104.99,468
+80151,PO BOX,0,Englewood,,,CO,Arapahoe County,America/Denver,303,NA,US,39.64,-104.99,395
+80155,PO BOX,0,Englewood,"Greenwood Village, Greenwood Vlg",,CO,Arapahoe County,America/Denver,303,NA,US,39.64,-104.99,655
+80160,PO BOX,0,Littleton,,,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,457
+80161,PO BOX,0,Littleton,Centennial,,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,403
+80162,PO BOX,0,Littleton,,,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,502
+80163,PO BOX,0,Littleton,"Hghlnds Ranch, Highlands Ranch",,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,549
+80165,UNIQUE,0,Littleton,,Littleton City Offices,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,0
+80166,UNIQUE,0,Littleton,,Arapahoe County Offices,CO,Arapahoe County,America/Denver,303,NA,US,39.59,-105.01,0
+80201,PO BOX,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,1331
+80202,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.75,-105,13740
+80203,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.73,-104.98,16240
+80204,STANDARD,0,Denver,,,CO,Denver County,America/Denver,720303,NA,US,39.73,-105.02,27090
+80205,STANDARD,0,Denver,,,CO,Denver County,America/Denver,720,NA,US,39.76,-104.96,27910
+80206,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.73,-104.95,21930
+80207,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.76,-104.92,19440
+80208,UNIQUE,0,Denver,,University Of Denver,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,36
+80209,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.71,-104.97,22710
+80210,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.68,-104.96,30780
+80211,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.77,-105.02,31770
+80212,STANDARD,0,Denver,Wheat Ridge,Lakeside,CO,Denver County,America/Denver,303720,NA,US,39.77,-105.05,17520
+80214,STANDARD,0,Denver,"Edgewater, Lakewood, Wheat Ridge",,CO,Jefferson County,America/Denver,303720,NA,US,39.74,-105.07,20800
+80215,STANDARD,0,Denver,"Lakewood, Wheat Ridge",,CO,Jefferson County,America/Denver,303720,NA,US,39.74,-105.12,17730
+80216,STANDARD,0,Denver,Commerce City,,CO,Denver County,America/Denver,303720,NA,US,39.79,-104.96,13210
+80217,PO BOX,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,453
+80218,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.73,-104.97,14860
+80219,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.7,-105.04,56350
+80220,STANDARD,0,Denver,,,CO,Denver County,America/Denver,720303,NA,US,39.73,-104.92,32830
+80221,STANDARD,0,Denver,"Federal Heights, Federal Hgts, Thornton, Westminster",,CO,Adams County,America/Denver,303720,NA,US,39.82,-105.01,37070
+80222,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.67,-104.93,18900
+80223,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.7,-105,16900
+80224,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.69,-104.91,16630
+80225,PO BOX,0,Denver,Lakewood,Denver Federal Center,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80226,STANDARD,0,Denver,Lakewood,,CO,Jefferson County,America/Denver,303720,NA,US,39.71,-105.09,28270
+80227,STANDARD,0,Denver,Lakewood,,CO,Jefferson County,America/Denver,303720,NA,US,39.67,-105.09,32150
+80228,STANDARD,0,Denver,Lakewood,,CO,Jefferson County,America/Denver,303720,NA,US,39.69,-105.17,32400
+80229,STANDARD,0,Denver,Thornton,Welby,CO,Adams County,America/Denver,303720,NA,US,39.86,-104.96,49020
+80230,STANDARD,0,Denver,"Lowry, Montclair",,CO,Denver County,America/Denver,720303,NA,US,39.72,-104.89,8600
+80231,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.67,-104.89,29490
+80232,STANDARD,0,Denver,Lakewood,,CO,Jefferson County,America/Denver,720303,NA,US,39.69,-105.09,20270
+80233,STANDARD,0,Denver,"Northglenn, Thornton",North Glenn,CO,Adams County,America/Denver,720303,NA,US,39.9,-104.95,43410
+80234,STANDARD,0,Denver,"North Glenn, Northglenn, Westminster",Federal Heights,CO,Adams County,America/Denver,303720,NA,US,39.91,-105,25970
+80235,STANDARD,0,Denver,Lakewood,,CO,Jefferson County,America/Denver,303720,NA,US,39.65,-105.09,7110
+80236,STANDARD,0,Denver,Lakewood,"Fort Logan, Ft Logan",CO,Denver County,America/Denver,303720,NA,US,39.65,-105.04,14260
+80237,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.64,-104.9,20290
+80238,STANDARD,0,Denver,Montbello,,CO,Denver County,America/Denver,303720,NA,US,39.76,-104.87,26670
+80239,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.79,-104.84,43540
+80241,STANDARD,0,Thornton,"Denver, Northglenn, Westminster",East Lake,CO,Adams County,America/Denver,303720,NA,US,39.93,-104.95,30120
+80243,UNIQUE,0,Denver,,Co Dmv Dept Of Rev,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80244,UNIQUE,0,Denver,,Us West Communications,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80246,STANDARD,0,Denver,Glendale,,CO,Denver County,America/Denver,303,NA,US,39.71,-104.93,10960
+80247,STANDARD,0,Denver,Aurora,,CO,Arapahoe County,America/Denver,303,NA,US,39.69,-104.88,23750
+80248,PO BOX,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,53
+80249,STANDARD,0,Denver,,,CO,Denver County,America/Denver,720,NA,US,39.85,-104.7,34820
+80250,PO BOX,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,517
+80251,UNIQUE,1,Denver,,National Farmers Union,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80252,UNIQUE,1,Denver,,Bank Americard,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80256,UNIQUE,0,Denver,,Us Bank,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80257,UNIQUE,0,Denver,,Us Court Of Appeals 10th Cir,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80259,UNIQUE,0,Denver,,Small Business Adm,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80260,STANDARD,0,Denver,"Federal Heights, Federal Hgts, Northglenn, Thornton, Westminster",,CO,Adams County,America/Denver,303,NA,US,39.87,-105.01,31810
+80261,UNIQUE,0,Denver,,Co Dept Of Revenue,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,16
+80262,UNIQUE,1,Denver,,Univ Of Colorado Med Ctr,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80263,UNIQUE,0,Denver,,Affiliated Banks Service Co,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80264,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.74,-104.99,0
+80265,STANDARD,0,Denver,,,CO,Denver County,America/Denver,720303,NA,US,39.76,-104.87,19
+80266,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80271,UNIQUE,0,Denver,,Wells Fargo Bank,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80273,UNIQUE,0,Denver,,Blue Cross Blue Shield Of Co,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80274,UNIQUE,0,Denver,,Wells Fargo Bank,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,45
+80279,UNIQUE,1,Denver,,Af Acctg & Finance Ctr,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,85
+80280,UNIQUE,1,Denver,,Af Reserve Pers Ctr,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80281,UNIQUE,0,Denver,,Wells Fargo Bank,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80290,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303720,NA,US,39.74,-104.99,0
+80291,UNIQUE,0,Denver,,Wells Fargo Bank,CO,Denver County,America/Denver,303,NA,US,39.76,-104.87,0
+80293,STANDARD,0,Denver,,,CO,Denver County,America/Denver,303,NA,US,39.75,-104.99,0
+80294,STANDARD,0,Denver,,Federal Bldg/Us Courthouse,CO,Denver County,America/Denver,720303,NA,US,39.75,-104.99,0
+80295,STANDARD,1,Denver,,,CO,Denver County,America/Denver,720,NA,US,39.76,-104.87,0
+80299,STANDARD,0,Denver,,Western Area Usps,CO,Denver County,America/Denver,303720,NA,US,39.76,-104.87,0
+80301,STANDARD,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,22490
+80302,STANDARD,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.04,-105.37,14330
+80303,STANDARD,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,39.97,-105.21,17310
+80304,STANDARD,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.05,-105.29,24080
+80305,STANDARD,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,39.98,-105.25,14540
+80306,PO BOX,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,1775
+80307,PO BOX,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,310
+80308,PO BOX,0,Boulder,,,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,1170
+80309,UNIQUE,0,Boulder,,University Of Colorado,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,47
+80310,UNIQUE,0,Boulder,,Univ Of Co Dorms,CO,Boulder County,America/Denver,303,NA,US,40,-105.26,104
+80314,UNIQUE,0,Boulder,,Ibm Corp,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80321,UNIQUE,1,Boulder,,Neodata Business Reply,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80322,UNIQUE,1,Boulder,,Neodata,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80323,UNIQUE,1,Boulder,,Neodata,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80328,UNIQUE,1,Boulder,,Neodata Business Reply,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80329,UNIQUE,1,Boulder,,Neodata,CO,Boulder County,America/Denver,303,NA,US,40.02,-105.25,0
+80401,STANDARD,0,Golden,"Evergreen, Lakewood",,CO,Jefferson County,America/Denver,303720,NA,US,39.73,-105.21,34230
+80402,PO BOX,0,Golden,,,CO,Jefferson County,America/Denver,303,NA,US,39.73,-105.21,1159
+80403,STANDARD,0,Golden,Arvada,Blackhawk,CO,Jefferson County,America/Denver,303720,NA,US,39.83,-105.29,19640
+80419,UNIQUE,0,Golden,,Jefferson County,CO,Jefferson County,America/Denver,303,NA,US,39.73,-105.2,0
+80420,PO BOX,0,Alma,,,CO,Park County,America/Denver,719,NA,US,39.28,-106.06,499
+80421,STANDARD,0,Bailey,,,CO,Park County,America/Denver,719,NA,US,39.4,-105.47,7260
+80422,STANDARD,0,Black Hawk,,Blackhawk,CO,Gilpin County,America/Denver,720,NA,US,39.8,-105.49,3300
+80423,STANDARD,0,Bond,,,CO,Eagle County,America/Denver,970,NA,US,39.87,-106.7,99
+80424,STANDARD,0,Breckenridge,Blue River,,CO,Summit County,America/Denver,970,NA,US,39.5,-106.04,9360
+80425,PO BOX,0,Buffalo Creek,,,CO,Jefferson County,America/Denver,303,NA,US,39.35,-105.21,236
+80426,PO BOX,0,Burns,,,CO,Eagle County,America/Denver,970,NA,US,39.91,-107,64
+80427,PO BOX,0,Central City,,,CO,Gilpin County,America/Denver,303,NA,US,39.79,-105.51,719
+80428,STANDARD,0,Clark,,,CO,Routt County,America/Denver,970,NA,US,40.84,-106.93,680
+80429,PO BOX,0,Climax,Leadville,,CO,Lake County,America/Denver,719,NA,US,39.37,-106.18,0
+80430,STANDARD,0,Coalmont,Walden,,CO,Jackson County,America/Denver,970,NA,US,40.57,-106.43,92
+80432,PO BOX,0,Como,Fairplay,,CO,Park County,America/Denver,719,NA,US,39.22,-105.8,199
+80433,STANDARD,0,Conifer,Foxton,Aspen Park,CO,Jefferson County,America/Denver,,NA,US,39.52,-105.3,8490
+80434,PO BOX,0,Cowdrey,,,CO,Jackson County,America/Denver,970,NA,US,40.85,-106.3,67
+80435,STANDARD,0,Dillon,"Keystone, Montezuma",,CO,Summit County,America/Denver,970,NA,US,39.62,-106.03,8020
+80436,PO BOX,0,Dumont,,,CO,Clear Creek County,America/Denver,303,NA,US,39.78,-105.6,461
+80437,PO BOX,0,Evergreen,,,CO,Jefferson County,America/Denver,303,NA,US,39.63,-105.34,2443
+80438,PO BOX,0,Empire,,,CO,Clear Creek County,America/Denver,303,NA,US,39.75,-105.68,410
+80439,STANDARD,0,Evergreen,Golden,,CO,Jefferson County,America/Denver,303720,NA,US,39.63,-105.34,22560
+80440,STANDARD,0,Fairplay,,,CO,Park County,America/Denver,719,NA,US,39.22,-105.99,2230
+80442,PO BOX,0,Fraser,,,CO,Grand County,America/Denver,970,NA,US,39.92,-105.89,1965
+80443,PO BOX,0,Frisco,,Copper Mtn,CO,Summit County,America/Denver,970,NA,US,39.57,-106.09,4145
+80444,PO BOX,0,Georgetown,,,CO,Clear Creek County,America/Denver,303,NA,US,39.71,-105.69,1006
+80446,STANDARD,0,Granby,,Silvercreek,CO,Grand County,America/Denver,970,NA,US,40.08,-105.93,3810
+80447,STANDARD,0,Grand Lake,,,CO,Grand County,America/Denver,970,NA,US,40.25,-105.82,1550
+80448,PO BOX,0,Grant,,,CO,Park County,America/Denver,719,NA,US,39.45,-105.67,81
+80449,STANDARD,0,Hartsel,,,CO,Park County,America/Denver,719,NA,US,39.02,-105.8,910
+80451,PO BOX,0,Hot Sulphur Springs,Hot Slphr Spr,,CO,Grand County,America/Denver,970,NA,US,40.07,-106.09,529
+80452,STANDARD,0,Idaho Springs,,,CO,Clear Creek County,America/Denver,303720,NA,US,39.74,-105.51,2930
+80453,PO BOX,0,Idledale,,,CO,Jefferson County,America/Denver,303,NA,US,39.66,-105.24,291
+80454,PO BOX,0,Indian Hills,,,CO,Jefferson County,America/Denver,303,NA,US,39.62,-105.23,1329
+80455,STANDARD,0,Jamestown,,,CO,Boulder County,America/Denver,720,NA,US,40.11,-105.39,480
+80456,STANDARD,0,Jefferson,"Como, Fairplay",,CO,Park County,America/Denver,719,NA,US,39.38,-105.8,440
+80457,PO BOX,0,Kittredge,,,CO,Jefferson County,America/Denver,303,NA,US,39.65,-105.3,810
+80459,STANDARD,0,Kremmling,,,CO,Grand County,America/Denver,970,NA,US,40.05,-106.37,2100
+80461,STANDARD,0,Leadville,,,CO,Lake County,America/Denver,719,NA,US,39.24,-106.29,6220
+80463,STANDARD,0,Mc Coy,,,CO,Routt County,America/Denver,970,NA,US,39.97,-106.72,108
+80465,STANDARD,0,Morrison,,,CO,Jefferson County,America/Denver,303,NA,US,39.65,-105.18,15260
+80466,STANDARD,0,Nederland,,,CO,Boulder County,America/Denver,970,NA,US,39.96,-105.5,3360
+80467,STANDARD,0,Oak Creek,,,CO,Routt County,America/Denver,970,NA,US,40.21,-106.83,1770
+80468,STANDARD,0,Parshall,,,CO,Grand County,America/Denver,970,NA,US,40.05,-106.18,230
+80469,PO BOX,0,Phippsburg,,,CO,Routt County,America/Denver,970,NA,US,40.23,-106.93,272
+80470,STANDARD,0,Pine,,,CO,Jefferson County,America/Denver,303,NA,US,39.42,-105.33,3410
+80471,PO BOX,0,Pinecliffe,,,CO,Boulder County,America/Denver,303,NA,US,39.94,-105.42,215
+80473,PO BOX,0,Rand,,,CO,Jackson County,America/Denver,970,NA,US,40.45,-106.17,43
+80474,PO BOX,0,Rollinsville,,,CO,Gilpin County,America/Denver,303,NA,US,39.92,-105.5,440
+80475,PO BOX,0,Shawnee,,,CO,Park County,America/Denver,719,NA,US,39.42,-105.55,197
+80476,PO BOX,0,Silver Plume,,,CO,Clear Creek County,America/Denver,303,NA,US,39.69,-105.72,142
+80477,PO BOX,0,Steamboat Springs,Steamboat Spr,Steamboat,CO,Routt County,America/Denver,970,NA,US,40.49,-106.83,7575
+80478,PO BOX,0,Tabernash,,,CO,Grand County,America/Denver,970,NA,US,39.98,-105.85,615
+80479,PO BOX,0,Toponas,,,CO,Routt County,America/Denver,970,NA,US,40.07,-106.8,21
+80480,STANDARD,0,Walden,,,CO,Jackson County,America/Denver,970,NA,US,40.73,-106.28,1000
+80481,STANDARD,0,Ward,,,CO,Boulder County,America/Denver,303,NA,US,40.07,-105.51,490
+80482,PO BOX,0,Winter Park,,,CO,Grand County,America/Denver,970,NA,US,39.88,-105.77,1854
+80483,PO BOX,0,Yampa,,,CO,Routt County,America/Denver,970,NA,US,40.15,-106.9,514
+80487,STANDARD,0,Steamboat Springs,Steamboat Spr,Steamboat,CO,Routt County,America/Denver,970,NA,US,40.47,-106.82,9700
+80488,PO BOX,0,Steamboat Springs,Steamboat Spr,Steamboat,CO,Routt County,America/Denver,970,NA,US,40.45,-106.82,3045
+80497,PO BOX,0,Silverthorne,,,CO,Summit County,America/Denver,970,NA,US,39.67,-106,905
+80498,STANDARD,0,Silverthorne,Heeney,,CO,Summit County,America/Denver,970,NA,US,39.65,-106.08,5060
+80501,STANDARD,0,Longmont,,,CO,Boulder County,America/Denver,303720,NA,US,40.17,-105.11,37000
+80502,PO BOX,0,Longmont,,,CO,Boulder County,America/Denver,303,NA,US,40.17,-105.11,1663
+80503,STANDARD,0,Longmont,Niwot,,CO,Boulder County,America/Denver,303720,NA,US,40.17,-105.21,32420
+80504,STANDARD,0,Longmont,"Firestone, Frederick, Mead, Niwot",,CO,Boulder County,America/Denver,303720,NA,US,40.16,-105.03,56590
+80510,STANDARD,0,Allenspark,,,CO,Boulder County,America/Denver,720303,NA,US,40.2,-105.52,400
+80511,PO BOX,0,Estes Park,,,CO,Larimer County,America/Denver,970,NA,US,40.34,-105.57,178
+80512,STANDARD,0,Bellvue,,,CO,Larimer County,America/Denver,970,NA,US,40.63,-105.17,1860
+80513,STANDARD,0,Berthoud,,,CO,Larimer County,America/Denver,970,NA,US,40.3,-105.08,16100
+80514,STANDARD,0,Dacono,Erie,,CO,Weld County,America/Denver,,NA,US,40.07,-104.96,6010
+80515,STANDARD,0,Drake,,,CO,Larimer County,America/Denver,970,NA,US,40.43,-105.33,590
+80516,STANDARD,0,Erie,Frederick,,CO,Weld County,America/Denver,,NA,US,40.02,-105.04,33870
+80517,STANDARD,0,Estes Park,,Rocky Mountain National Park,CO,Larimer County,America/Denver,970,NA,US,40.37,-105.52,9040
+80520,PO BOX,0,Firestone,,,CO,Weld County,America/Denver,,NA,US,40.11,-104.93,1822
+80521,STANDARD,0,Fort Collins,,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.59,-105.13,19610
+80522,PO BOX,0,Fort Collins,,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.55,-105.06,1148
+80523,UNIQUE,0,Fort Collins,,Colorado State University,CO,Larimer County,America/Denver,970,NA,US,40.55,-105.06,89
+80524,STANDARD,0,Fort Collins,Severance,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.65,-105.03,32940
+80525,STANDARD,0,Fort Collins,Timnath,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.55,-105.06,48240
+80526,STANDARD,0,Fort Collins,,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.52,-105.14,39210
+80527,PO BOX,0,Fort Collins,,Ft Collins,CO,Larimer County,America/Denver,970,NA,US,40.55,-105.06,1308
+80528,STANDARD,0,Fort Collins,Windsor,,CO,Larimer County,America/Denver,970,NA,US,40.49,-105,22240
+80530,STANDARD,0,Frederick,,,CO,Weld County,America/Denver,,NA,US,40.1,-104.94,5430
+80532,PO BOX,0,Glen Haven,,,CO,Larimer County,America/Denver,970,NA,US,40.49,-105.47,284
+80533,PO BOX,0,Hygiene,,,CO,Boulder County,America/Denver,303,NA,US,40.18,-105.17,283
+80534,STANDARD,0,Johnstown,Loveland,,CO,Weld County,America/Denver,970,NA,US,40.33,-104.91,17730
+80535,STANDARD,0,Laporte,,,CO,Larimer County,America/Denver,970,NA,US,40.73,-105.18,2520
+80536,STANDARD,0,Livermore,Virginia Dale,,CO,Larimer County,America/Denver,970,NA,US,40.87,-105.37,1830
+80537,STANDARD,0,Loveland,,,CO,Larimer County,America/Denver,970,NA,US,40.36,-105.18,38480
+80538,STANDARD,0,Loveland,,,CO,Larimer County,America/Denver,970,NA,US,40.41,-105.07,44600
+80539,PO BOX,0,Loveland,,,CO,Larimer County,America/Denver,970,NA,US,40.41,-105.07,952
+80540,STANDARD,0,Lyons,,,CO,Boulder County,America/Denver,303720,NA,US,40.24,-105.36,4640
+80541,PO BOX,0,Masonville,,,CO,Larimer County,America/Denver,970,NA,US,40.48,-105.2,441
+80542,STANDARD,0,Mead,,,CO,Weld County,America/Denver,970,NA,US,40.23,-104.98,5030
+80543,STANDARD,0,Milliken,,,CO,Weld County,America/Denver,970,NA,US,40.31,-104.85,8160
+80544,PO BOX,0,Niwot,,,CO,Boulder County,America/Denver,303,NA,US,40.1,-105.17,610
+80545,STANDARD,0,Red Feather Lakes,Red Fe Lks,,CO,Larimer County,America/Denver,970,NA,US,40.8,-105.58,780
+80546,PO BOX,0,Severance,,,CO,Weld County,America/Denver,,NA,US,40.53,-104.85,463
+80547,STANDARD,0,Timnath,,,CO,Larimer County,America/Denver,970,NA,US,40.53,-104.97,7010
+80549,STANDARD,0,Wellington,,,CO,Larimer County,America/Denver,970,NA,US,40.7,-105,12660
+80550,STANDARD,0,Windsor,Severance,,CO,Weld County,America/Denver,970,NA,US,40.48,-104.9,38640
+80551,UNIQUE,0,Windsor,,Eastman Kodak Co,CO,Weld County,America/Denver,970,NA,US,40.48,-104.9,0
+80553,UNIQUE,0,Fort Collins,,"Ft Collins, Teledyne Water Pik",CO,Larimer County,America/Denver,970,NA,US,40.55,-105.06,0
+80601,STANDARD,0,Brighton,,,CO,Adams County,America/Denver,303720,NA,US,39.95,-104.79,37780
+80602,STANDARD,0,Brighton,Thornton,,CO,Adams County,America/Denver,303720,NA,US,39.95,-104.9,42620
+80603,STANDARD,0,Brighton,"Commerce City, Lochbuie",,CO,Weld County,America/Denver,303720,NA,US,39.97,-104.74,15330
+80610,STANDARD,0,Ault,Severance,,CO,Weld County,America/Denver,,NA,US,40.58,-104.73,3140
+80611,STANDARD,0,Briggsdale,,,CO,Weld County,America/Denver,970,NA,US,40.63,-104.32,740
+80612,STANDARD,0,Carr,,,CO,Weld County,America/Denver,970,NA,US,40.9,-104.87,610
+80614,PO BOX,0,Eastlake,,,CO,Adams County,America/Denver,303,NA,US,39.92,-104.96,609
+80615,STANDARD,0,Eaton,Severance,,CO,Weld County,America/Denver,970,NA,US,40.52,-104.71,9000
+80620,STANDARD,0,Evans,,,CO,Weld County,America/Denver,970,NA,US,40.37,-104.69,18840
+80621,STANDARD,0,Fort Lupton,Wattenburg,Ft Lupton,CO,Weld County,America/Denver,303720,NA,US,40.08,-104.8,12920
+80622,STANDARD,0,Galeton,,,CO,Weld County,America/Denver,,NA,US,40.54,-104.46,350
+80623,PO BOX,0,Gilcrest,,,CO,Weld County,America/Denver,,NA,US,40.28,-104.78,1197
+80624,STANDARD,0,Gill,,,CO,Weld County,America/Denver,,NA,US,40.45,-104.53,1090
+80631,STANDARD,0,Greeley,Garden City,,CO,Weld County,America/Denver,970,NA,US,40.44,-104.67,39850
+80632,PO BOX,0,Greeley,,,CO,Weld County,America/Denver,970,NA,US,40.42,-104.74,1249
+80633,PO BOX,0,Greeley,,,CO,Weld County,America/Denver,970,NA,US,40.42,-104.74,670
+80634,STANDARD,0,Greeley,Evans,,CO,Weld County,America/Denver,970,NA,US,40.42,-104.74,59530
+80638,UNIQUE,0,Greeley,,State Farm Ins,CO,Weld County,America/Denver,970,NA,US,40.42,-104.74,0
+80639,UNIQUE,0,Greeley,,Univ Of Northern Colorado,CO,Weld County,America/Denver,970,NA,US,40.42,-104.74,7
+80640,STANDARD,0,Henderson,"Brighton, Commerce City",,CO,Adams County,America/Denver,720,NA,US,39.92,-104.87,12660
+80642,STANDARD,0,Hudson,,,CO,Weld County,America/Denver,303720,NA,US,40.07,-104.64,4320
+80643,STANDARD,0,Keenesburg,,,CO,Weld County,America/Denver,303720,NA,US,40.1,-104.51,3310
+80644,STANDARD,0,Kersey,,,CO,Weld County,America/Denver,,NA,US,40.38,-104.56,3020
+80645,STANDARD,0,La Salle,Evans,,CO,Weld County,America/Denver,970,NA,US,40.34,-104.7,4200
+80646,PO BOX,0,Lucerne,,,CO,Weld County,America/Denver,,NA,US,40.48,-104.68,237
+80648,STANDARD,0,Nunn,,,CO,Weld County,America/Denver,970,NA,US,40.7,-104.78,1280
+80649,STANDARD,0,Orchard,,,CO,Morgan County,America/Denver,303,NA,US,40.33,-104.12,320
+80650,STANDARD,0,Pierce,,,CO,Weld County,America/Denver,,NA,US,40.63,-104.75,1780
+80651,STANDARD,0,Platteville,,,CO,Weld County,America/Denver,970,NA,US,40.21,-104.82,4710
+80652,STANDARD,0,Roggen,,,CO,Weld County,America/Denver,303,NA,US,40.17,-104.37,590
+80653,STANDARD,0,Weldona,,,CO,Morgan County,America/Denver,970,NA,US,40.35,-103.97,730
+80654,STANDARD,0,Wiggins,Hoyt,,CO,Morgan County,America/Denver,970,NA,US,40.23,-104.07,3240
+80701,STANDARD,0,Fort Morgan,,,CO,Morgan County,America/Denver,970,NA,US,40.26,-103.79,15280
+80705,STANDARD,0,Log Lane Village,"Fort Morgan, Log Lane Vlg",,CO,Morgan County,America/Denver,970,NA,US,40.27,-103.83,990
+80720,STANDARD,0,Akron,,,CO,Washington County,America/Denver,970,NA,US,40.16,-103.21,2160
+80721,STANDARD,0,Amherst,,,CO,Phillips County,America/Denver,970,NA,US,40.68,-102.17,176
+80722,STANDARD,0,Atwood,,,CO,Logan County,America/Denver,970,NA,US,40.55,-103.27,350
+80723,STANDARD,0,Brush,,,CO,Morgan County,America/Denver,970,NA,US,40.25,-103.63,6070
+80726,STANDARD,0,Crook,,,CO,Logan County,America/Denver,970,NA,US,40.85,-102.8,350
+80727,STANDARD,0,Eckley,,,CO,Yuma County,America/Denver,970,NA,US,40.11,-102.48,360
+80728,STANDARD,0,Fleming,,,CO,Logan County,America/Denver,970,NA,US,40.68,-102.84,840
+80729,STANDARD,0,Grover,,,CO,Weld County,America/Denver,970,NA,US,40.86,-104.22,350
+80731,STANDARD,0,Haxtun,,,CO,Phillips County,America/Denver,970,NA,US,40.64,-102.62,1350
+80732,PO BOX,0,Hereford,,,CO,Weld County,America/Denver,,NA,US,40.97,-104.3,63
+80733,STANDARD,0,Hillrose,,,CO,Morgan County,America/Denver,970,NA,US,40.32,-103.52,520
+80734,STANDARD,0,Holyoke,,,CO,Phillips County,America/Denver,970,NA,US,40.58,-102.3,2920
+80735,STANDARD,0,Idalia,Hale,,CO,Yuma County,America/Denver,970,NA,US,39.7,-102.3,410
+80736,STANDARD,0,Iliff,,,CO,Logan County,America/Denver,970,NA,US,40.75,-103.06,580
+80737,STANDARD,0,Julesburg,,,CO,Sedgwick County,America/Denver,970,NA,US,40.98,-102.26,1320
+80740,STANDARD,0,Lindon,,,CO,Washington County,America/Denver,970,NA,US,39.73,-103.4,99
+80741,STANDARD,0,Merino,Willard,,CO,Logan County,America/Denver,970,NA,US,40.48,-103.35,840
+80742,STANDARD,0,New Raymer,,Raymer,CO,Weld County,America/Denver,970,NA,US,40.62,-103.78,240
+80743,STANDARD,0,Otis,,,CO,Washington County,America/Denver,970,NA,US,40.14,-102.96,950
+80744,STANDARD,0,Ovid,,,CO,Sedgwick County,America/Denver,970,NA,US,40.87,-102.39,390
+80745,STANDARD,0,Padroni,,,CO,Logan County,America/Denver,970,NA,US,40.9,-103.39,127
+80746,STANDARD,0,Paoli,,,CO,Phillips County,America/Denver,970,NA,US,40.61,-102.47,46
+80747,STANDARD,0,Peetz,,,CO,Logan County,America/Denver,970,NA,US,40.96,-103.11,430
+80749,STANDARD,0,Sedgwick,,,CO,Sedgwick County,America/Denver,970,NA,US,40.93,-102.52,270
+80750,STANDARD,0,Snyder,,,CO,Morgan County,America/Denver,970,NA,US,40.41,-103.6,390
+80751,STANDARD,0,Sterling,,,CO,Logan County,America/Denver,970,NA,US,40.62,-103.19,12700
+80754,STANDARD,0,Stoneham,,,CO,Weld County,America/Denver,970,NA,US,40.63,-103.65,128
+80755,STANDARD,0,Vernon,,,CO,Yuma County,America/Denver,970,NA,US,39.93,-102.28,151
+80757,STANDARD,0,Woodrow,Last Chance,,CO,Washington County,America/Denver,970,NA,US,39.98,-103.58,185
+80758,STANDARD,0,Wray,Laird,,CO,Yuma County,America/Denver,970,NA,US,40.07,-102.22,3370
+80759,STANDARD,0,Yuma,,,CO,Yuma County,America/Denver,970,NA,US,40.12,-102.72,4220
+80801,STANDARD,0,Anton,,Arickaree,CO,Washington County,America/Denver,970,NA,US,39.75,-103.22,167
+80802,STANDARD,0,Arapahoe,,,CO,Cheyenne County,America/Denver,719,NA,US,38.85,-102.17,230
+80804,STANDARD,0,Arriba,,,CO,Lincoln County,America/Denver,970719,NA,US,39.28,-103.27,250
+80805,STANDARD,0,Bethune,,,CO,Kit Carson County,America/Denver,719,NA,US,39.3,-102.42,360
+80807,STANDARD,0,Burlington,,,CO,Kit Carson County,America/Denver,719,NA,US,39.3,-102.27,3880
+80808,STANDARD,0,Calhan,,Ellicott,CO,El Paso County,America/Denver,719,NA,US,39.03,-104.29,6080
+80809,STANDARD,0,Cascade,,Chipita Park,CO,El Paso County,America/Denver,719,NA,US,38.9,-104.97,1340
+80810,STANDARD,0,Cheyenne Wells,Cheyenne Wls,First View,CO,Cheyenne County,America/Denver,719,NA,US,38.81,-102.35,930
+80812,STANDARD,0,Cope,,,CO,Washington County,America/Denver,970,NA,US,39.67,-102.85,210
+80813,STANDARD,0,Cripple Creek,,,CO,Teller County,America/Denver,719,NA,US,38.74,-105.17,1900
+80814,STANDARD,0,Divide,,,CO,Teller County,America/Denver,719,NA,US,38.94,-105.16,3850
+80815,STANDARD,0,Flagler,,,CO,Kit Carson County,America/Denver,719970,NA,US,39.29,-103.06,800
+80816,STANDARD,0,Florissant,,"Florissant Fossil Beds Natio, Twin Rock",CO,Teller County,America/Denver,719,NA,US,38.95,-105.29,5140
+80817,STANDARD,0,Fountain,,,CO,El Paso County,America/Denver,719,NA,US,38.66,-104.69,29000
+80818,STANDARD,0,Genoa,,Bovina,CO,Lincoln County,America/Denver,719,NA,US,39.27,-103.49,310
+80819,PO BOX,0,Green Mountain Falls,Green Mtn Fls,Ute Pass,CO,El Paso County,America/Denver,719,NA,US,38.93,-105.02,809
+80820,STANDARD,0,Guffey,,,CO,Park County,America/Denver,,NA,US,38.75,-105.53,630
+80821,STANDARD,0,Hugo,Boyero,Punkin Center,CO,Lincoln County,America/Denver,719,NA,US,39.13,-103.46,930
+80822,STANDARD,0,Joes,,,CO,Yuma County,America/Denver,970,NA,US,39.65,-102.68,210
+80823,STANDARD,0,Karval,,,CO,Lincoln County,America/Denver,719,NA,US,38.73,-103.53,179
+80824,STANDARD,0,Kirk,,,CO,Yuma County,America/Denver,970,NA,US,39.62,-102.6,200
+80825,STANDARD,0,Kit Carson,,,CO,Cheyenne County,America/Denver,719,NA,US,38.76,-102.79,380
+80826,UNIQUE,0,Limon,,"Limon Correctional Fac, Limon Correctional Facility, Limon Crrctnl",CO,Lincoln County,America/Denver,719,NA,US,39.26,-103.68,0
+80827,STANDARD,0,Lake George,,Tarryall,CO,Park County,America/Denver,719,NA,US,38.98,-105.37,670
+80828,STANDARD,0,Limon,,,CO,Lincoln County,America/Denver,719,NA,US,39.26,-103.68,2340
+80829,STANDARD,0,Manitou Springs,Manitou Spgs,Crystal Hills,CO,El Paso County,America/Denver,719,NA,US,38.85,-104.91,4870
+80830,STANDARD,0,Matheson,,,CO,Elbert County,America/Denver,719,NA,US,39.11,-103.89,190
+80831,STANDARD,0,Peyton,Falcon,,CO,El Paso County,America/Denver,719,NA,US,39.03,-104.48,32550
+80832,STANDARD,0,Ramah,,,CO,El Paso County,America/Denver,719,NA,US,39.12,-104.16,670
+80833,STANDARD,0,Rush,,,CO,El Paso County,America/Denver,719,NA,US,38.84,-104.08,620
+80834,STANDARD,0,Seibert,,,CO,Kit Carson County,America/Denver,970,NA,US,39.29,-102.86,250
+80835,STANDARD,0,Simla,,,CO,Elbert County,America/Denver,719,NA,US,39.14,-104.08,880
+80836,STANDARD,0,Stratton,,,CO,Kit Carson County,America/Denver,719,NA,US,39.3,-102.6,1010
+80840,STANDARD,0,Usaf Academy,"United States Air Force Acad, Us Air Force",,CO,El Paso County,America/Denver,719,NA,US,38.99,-104.85,2350
+80841,PO BOX,0,Usaf Academy,Cadet Sta,,CO,El Paso County,America/Denver,719,NA,US,38.99,-104.85,2019
+80860,PO BOX,0,Victor,,"Elkton, Goldfield",CO,Teller County,America/Denver,719,NA,US,38.7,-105.14,465
+80861,STANDARD,0,Vona,,,CO,Kit Carson County,America/Denver,719,NA,US,39.3,-102.74,240
+80862,PO BOX,0,Wild Horse,,Aroya,CO,Cheyenne County,America/Denver,719,NA,US,38.87,-103.06,39
+80863,STANDARD,0,Woodland Park,,"Crystola, Westwood Lake",CO,Teller County,America/Denver,719,NA,US,38.99,-105.05,11020
+80864,STANDARD,0,Yoder,,"Edison, Truckton",CO,El Paso County,America/Denver,719,NA,US,38.84,-104.22,1240
+80866,PO BOX,0,Woodland Park,,,CO,Teller County,America/Denver,719,NA,US,38.99,-105.05,2417
+80901,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,1000
+80902,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs, Fort Carson, Ft Carson",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.67,-104.81,10660
+80903,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.83,-104.81,10760
+80904,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.88,17290
+80905,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.82,-104.84,14610
+80906,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Stratmoor Hills",CO,El Paso County,America/Denver,719,NA,US,38.75,-104.88,33560
+80907,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.88,-104.83,23180
+80908,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Black Forest, Co Spgs",CO,El Paso County,America/Denver,719,NA,US,39.05,-104.69,22710
+80909,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,29650
+80910,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.81,-104.77,25630
+80911,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security, Widefield",CO,El Paso County,America/Denver,719,NA,US,38.75,-104.72,31210
+80912,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs, Schriever AFB","Co Spgs, Consolidated Space Operation, Csoc, Ent Air Force Base, Falcon AFB, Schriever Air Force Base, Schriever Air Sta",CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80913,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs, Fort Carson, Ft Carson",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.69,-104.75,9119
+80914,PO BOX,0,Colorado Springs,"Chey Mtn AFB, Cheyenne Mountain AFB, Colo Spgs, Colorado Spgs, Peterson AFB","Cheyenne Mt Complex, Cheyenne Mtn AFB, Cmafb, Co Spgs, Peterson Air Force Base",CO,El Paso County,America/Denver,719,NA,US,38.82,-104.7,340
+80915,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.85,-104.72,20330
+80916,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.81,-104.71,34710
+80917,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.89,-104.75,26340
+80918,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.91,-104.78,42840
+80919,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Rockrimmon",CO,El Paso County,America/Denver,719,NA,US,38.93,-104.85,27660
+80920,STANDARD,0,Colorado Springs,"Co Spgs, Colo Spgs, Colorado Spgs",,CO,El Paso County,America/Denver,719,NA,US,38.96,-104.77,37670
+80921,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,39.02,-104.91,24940
+80922,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.89,-104.7,27480
+80923,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.93,-104.71,29240
+80924,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.97,-104.72,14950
+80925,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security",CO,El Paso County,America/Denver,719,NA,US,38.76,-104.66,15110
+80926,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.63,-104.9,1440
+80927,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.92,-104.67,7570
+80928,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security",CO,El Paso County,America/Denver,719,NA,US,38.63,-104.4,920
+80929,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security",CO,El Paso County,America/Denver,719,NA,US,38.82,-104.63,370
+80930,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security",CO,El Paso County,America/Denver,719,NA,US,38.81,-104.5,1590
+80931,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs","Co Spgs, Security",CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,425
+80932,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,509
+80933,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,467
+80934,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,387
+80935,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,1747
+80936,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,804
+80937,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,352
+80938,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.9,-104.66,740
+80939,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.88,-104.68,0
+80940,UNIQUE,1,Colorado Springs,Colorado Spgs,Walter Drake,CO,El Paso County,America/Denver,719,NA,US,38.88,-104.67,0
+80941,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Current Inc,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80942,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Affliated National Bank,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80943,UNIQUE,1,Colorado Springs,"Colo Spgs, Colorado Spgs",Us Bank Exchange,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80944,UNIQUE,1,Colorado Springs,"Colo Spgs, Colorado Spgs",C O Interstate Gas,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80945,UNIQUE,1,Colorado Springs,"Colo Spgs, Colorado Spgs",Comcast,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80946,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Colorado College,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,38
+80947,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs Utilities,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80949,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Rockrimmon,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,604
+80950,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Us Olympic Committee,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80951,STANDARD,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.89,-104.65,4270
+80960,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Co Spgs,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,503
+80962,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,802
+80970,PO BOX,0,Colorado Springs,"Colo Spgs, Colorado Spgs",,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,797
+80977,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Us Olympic,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80995,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Focus On The Family,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+80997,UNIQUE,0,Colorado Springs,"Colo Spgs, Colorado Spgs",Compassion International,CO,El Paso County,America/Denver,719,NA,US,38.86,-104.76,0
+81001,STANDARD,0,Pueblo,"Pueblo Dep Ac, Pueblo Depot Activity","Belle Plain, Devine, Pueblo Army Depot",CO,Pueblo County,America/Denver,719,NA,US,38.29,-104.54,23680
+81002,PO BOX,0,Pueblo,,,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,271
+81003,STANDARD,0,Pueblo,,,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,9770
+81004,STANDARD,0,Pueblo,,Bessemer,CO,Pueblo County,America/Denver,719,NA,US,38.04,-104.71,19340
+81005,STANDARD,0,Pueblo,,,CO,Pueblo County,America/Denver,719,NA,US,38.2,-104.81,27580
+81006,STANDARD,0,Pueblo,,"Baxter, Blende, Vineland",CO,Pueblo County,America/Denver,719,NA,US,38.24,-104.5,10300
+81007,STANDARD,0,Pueblo,Pueblo West,,CO,Pueblo County,America/Denver,719,NA,US,38.36,-104.77,30700
+81008,STANDARD,0,Pueblo,,Pinon,CO,Pueblo County,America/Denver,719,NA,US,38.44,-104.62,10780
+81009,UNIQUE,0,Pueblo,,Govt Printg Ofc,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,0
+81010,UNIQUE,0,Pueblo,,Co Lottery,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,0
+81011,UNIQUE,0,Pueblo,,Co Lottery,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,0
+81012,UNIQUE,0,Pueblo,,Co Lottery,CO,Pueblo County,America/Denver,719,NA,US,38.27,-104.62,0
+81019,PO BOX,0,Colorado City,Colo City,,CO,Pueblo County,America/Denver,719,NA,US,37.94,-104.84,1992
+81020,STANDARD,0,Aguilar,,,CO,Las Animas County,America/Denver,719,NA,US,37.4,-104.65,700
+81021,STANDARD,0,Arlington,,,CO,Kiowa County,America/Denver,719,NA,US,38.33,-103.33,0
+81022,STANDARD,0,Avondale,"N Avondale, North Avondale",Broadacre,CO,Pueblo County,America/Denver,719,NA,US,38.23,-104.35,1290
+81023,STANDARD,0,Beulah,,,CO,Pueblo County,America/Denver,719,NA,US,38.08,-104.98,1160
+81024,STANDARD,0,Boncarbo,,,CO,Las Animas County,America/Denver,719,NA,US,37.25,-104.73,214
+81025,STANDARD,0,Boone,,,CO,Pueblo County,America/Denver,719,NA,US,38.25,-104.25,670
+81027,STANDARD,0,Branson,,,CO,Las Animas County,America/Denver,719,NA,US,37.01,-103.87,128
+81029,STANDARD,0,Campo,,,CO,Baca County,America/Denver,719,NA,US,37.1,-102.57,230
+81030,PO BOX,0,Cheraw,,,CO,Otero County,America/Denver,719,NA,US,38.1,-103.52,223
+81033,PO BOX,0,Crowley,,,CO,Crowley County,America/Denver,719,NA,US,38.19,-103.86,123
+81034,UNIQUE,0,Ordway,,Ark Valley Corr Facl,CO,Crowley County,America/Denver,719,NA,US,38.19,-103.85,0
+81036,STANDARD,0,Eads,Chivington,Brandon,CO,Kiowa County,America/Denver,719,NA,US,38.48,-102.77,850
+81038,PO BOX,0,Fort Lyon,,Ft Lyon,CO,Bent County,America/Denver,719,NA,US,38.08,-103.14,0
+81039,STANDARD,0,Fowler,,,CO,Otero County,America/Denver,719,NA,US,38.12,-104.02,1580
+81040,STANDARD,0,Gardner,,Farisita,CO,Huerfano County,America/Denver,719,NA,US,37.78,-105.17,360
+81041,STANDARD,0,Granada,,"Barton, Koen",CO,Prowers County,America/Denver,719,NA,US,38.06,-102.31,570
+81043,PO BOX,0,Hartman,,,CO,Prowers County,America/Denver,719,NA,US,38.13,-102.22,57
+81044,STANDARD,0,Hasty,Caddoa,John Martin Reservoir,CO,Bent County,America/Denver,719,NA,US,37.93,-102.95,191
+81045,STANDARD,0,Haswell,,,CO,Kiowa County,America/Denver,719,NA,US,38.45,-103.16,117
+81046,PO BOX,0,Hoehne,,,CO,Las Animas County,America/Denver,719,NA,US,37.28,-104.38,108
+81047,STANDARD,0,Holly,Bristol,Cheney Center,CO,Prowers County,America/Denver,719,NA,US,38.05,-102.12,1310
+81049,STANDARD,0,Kim,Villegreen,,CO,Las Animas County,America/Denver,719,NA,US,37.24,-103.35,200
+81050,STANDARD,0,La Junta,Timpas,"Bents Fort, Bents Old Fort, Fair View, Fairmont, Fort Bent, Ft Bent, North La Junta, Roberta, Timber Lake",CO,Otero County,America/Denver,719,NA,US,37.98,-103.54,7920
+81052,STANDARD,0,Lamar,,"Carlton, Kornman, May Valley, Prowers, Shady Camp, West Farm",CO,Prowers County,America/Denver,719,NA,US,38.08,-102.61,7550
+81054,STANDARD,0,Las Animas,"Deora, Fort Lyon, Ninaview","Ft Lyon, Toonerville",CO,Bent County,America/Denver,719,NA,US,38.06,-103.22,2430
+81055,STANDARD,0,La Veta,,"Indian Creek, Ojo, Wahatoya",CO,Huerfano County,America/Denver,719,NA,US,37.51,-105,1220
+81057,STANDARD,0,Mc Clave,,Lubers,CO,Bent County,America/Denver,719,NA,US,38.12,-102.88,340
+81058,STANDARD,0,Manzanola,,,CO,Otero County,America/Denver,719,NA,US,38.1,-103.86,730
+81059,STANDARD,0,Model,"Delhi, Thatcher, Tyrone",,CO,Las Animas County,America/Denver,,NA,US,37.34,-104.27,164
+81062,STANDARD,0,Olney Springs,,,CO,Crowley County,America/Denver,719,NA,US,38.16,-103.94,630
+81063,STANDARD,0,Ordway,,"Numa, Punkin Center",CO,Crowley County,America/Denver,719,NA,US,38.22,-103.75,1260
+81064,STANDARD,0,Pritchett,Utleyville,,CO,Baca County,America/Denver,719,NA,US,37.22,-103,210
+81067,STANDARD,0,Rocky Ford,,"Hawley, Vroman",CO,Otero County,America/Denver,719,NA,US,38.04,-103.72,4230
+81069,STANDARD,0,Rye,,"Cedarwood, Greenwood, Lascar, San Isabel",CO,Pueblo County,America/Denver,719,NA,US,37.92,-104.93,1950
+81071,STANDARD,0,Sheridan Lake,"Brandon, Towner",,CO,Kiowa County,America/Denver,719,NA,US,38.46,-102.29,300
+81073,STANDARD,0,Springfield,,"Edler, Maxey",CO,Baca County,America/Denver,719,NA,US,37.4,-102.61,1440
+81075,STANDARD,1,Stonington,,,CO,,America/Denver,,NA,US,37.29,-102.18,0
+81076,STANDARD,0,Sugar City,,,CO,Crowley County,America/Denver,719,NA,US,38.23,-103.66,310
+81077,PO BOX,0,Swink,,,CO,Otero County,America/Denver,719,NA,US,38.02,-103.63,715
+81081,STANDARD,0,Trinchera,,,CO,Las Animas County,America/Denver,719,NA,US,37.05,-104.03,86
+81082,STANDARD,0,Trinidad,"Cokedale, Jansen, Sopris, Starkville","Beshoar Jct, El Moro, Ludlow, Pinon Canyon",CO,Las Animas County,America/Denver,719,NA,US,37.16,-104.5,9200
+81084,STANDARD,0,Two Buttes,Lycan,,CO,Baca County,America/Denver,719,NA,US,37.56,-102.39,109
+81087,PO BOX,0,Vilas,,,CO,Baca County,America/Denver,719,NA,US,37.37,-102.44,144
+81089,STANDARD,0,Walsenburg,Farista,"Farisita, Mutual, Pryor, Toltec",CO,Huerfano County,America/Denver,719,NA,US,37.62,-104.77,3390
+81090,STANDARD,0,Walsh,Stonington,,CO,Baca County,America/Denver,719,NA,US,37.38,-102.28,700
+81091,STANDARD,0,Weston,,"East Weston, Monument Lake Park, Monument Park, Stonewall, Tercio, Torres Canon, Vigil",CO,Las Animas County,America/Denver,719,NA,US,37.13,-105.01,620
+81092,STANDARD,0,Wiley,,Big Bend,CO,Prowers County,America/Denver,719,NA,US,38.15,-102.71,690
+81101,STANDARD,0,Alamosa,"Great Sand Dunes National Mo, Sand Dunes Mo","Carmel, East Alamosa, Estrella, Henry, Stanley, Washington, Waverly",CO,Alamosa County,America/Denver,719,NA,US,37.46,-105.87,12590
+81102,UNIQUE,0,Alamosa,,Adams State College,CO,Alamosa County,America/Denver,719,NA,US,37.46,-105.87,41
+81120,STANDARD,0,Antonito,,"Espinoza, Florida, Fox Creek, La Isla, Las Mesitas, Lobatos, Los Pinas, Mogote, Ortiz, Paisaje, San Antonio, San Miguel, San Rafeal, Track City",CO,Conejos County,America/Denver,719,NA,US,37.07,-106.01,1620
+81121,PO BOX,0,Arboles,,"Navajo State Park, Piedre Park",CO,Archuleta County,America/Denver,970,NA,US,37.11,-107.44,316
+81122,STANDARD,0,Bayfield,Chimney Rock,"Gem Village, Vallecito",CO,La Plata County,America/Denver,970,NA,US,37.23,-107.59,8440
+81123,STANDARD,0,Blanca,,,CO,Costilla County,America/Denver,719,NA,US,37.43,-105.51,650
+81124,PO BOX,0,Capulin,,,CO,Conejos County,America/Denver,719,NA,US,37.31,-106.16,271
+81125,STANDARD,0,Center,,,CO,Saguache County,America/Denver,719,NA,US,37.75,-106.11,2770
+81126,PO BOX,0,Chama,,,CO,Costilla County,America/Denver,719,NA,US,37.17,-105.38,120
+81127,STANDARD,1,Chimney Rock,Piedra,,CO,Archuleta County,America/Denver,970,NA,US,37.21,-107.34,41
+81128,PO BOX,0,Chromo,,,CO,Archuleta County,America/Denver,970,NA,US,37.03,-106.83,144
+81129,PO BOX,0,Conejos,,,CO,Conejos County,America/Denver,719,NA,US,37.1,-106.03,126
+81130,STANDARD,0,Creede,,Spar City,CO,Mineral County,America/Denver,719,NA,US,37.85,-106.92,800
+81131,PO BOX,0,Crestone,,,CO,Saguache County,America/Denver,719,NA,US,37.99,-105.69,783
+81132,STANDARD,0,Del Norte,,"Aqua Ramon, Baxterville, Freeman, Plaza, Summitville",CO,Rio Grande County,America/Denver,719,NA,US,37.67,-106.35,2550
+81133,STANDARD,0,Fort Garland,"Sangre De Cri, Sangre De Cristo Ranches","Forbes Park, Ft Garland",CO,Costilla County,America/Denver,719,NA,US,37.43,-105.43,890
+81134,STANDARD,1,San Luis,Garcia,,CO,Costilla County,America/Denver,719,NA,US,37,-105.53,70
+81135,PO BOX,0,Homelake,Monte Vista,,CO,Rio Grande County,America/Denver,719,NA,US,37.55,-106.05,43
+81136,STANDARD,0,Hooper,,,CO,Alamosa County,America/Denver,719,NA,US,37.74,-105.87,200
+81137,STANDARD,0,Ignacio,"S Ute Indian, Southern Ute Indian Reservat","Allison, Indian Agency, Oxford, So Ute Indian Res, Tiffany",CO,San Juan County,America/Denver,970,NA,US,37.11,-107.63,4330
+81138,PO BOX,0,Jaroso,,,CO,Costilla County,America/Denver,719,NA,US,37,-105.63,47
+81140,STANDARD,0,La Jara,,"Bountiful, Morgan, Richfield",CO,Conejos County,America/Denver,719,NA,US,37.27,-105.96,1940
+81141,PO BOX,0,Manassa,,,CO,Conejos County,America/Denver,719,NA,US,37.17,-105.93,1152
+81143,STANDARD,0,Moffat,,Mirage,CO,Saguache County,America/Denver,719,NA,US,38,-105.9,550
+81144,STANDARD,0,Monte Vista,,"Lariat, Maxeyville, Sargents School",CO,Rio Grande County,America/Denver,719,NA,US,37.57,-106.14,6320
+81146,STANDARD,0,Mosca,,,CO,Alamosa County,America/Denver,719,NA,US,37.65,-105.88,500
+81147,STANDARD,0,Pagosa Springs,"Chimney Rock, Pagosa Spgs",Pagosa Lakes,CO,Archuleta County,America/Denver,970,NA,US,37.24,-107.03,11610
+81148,PO BOX,0,Romeo,,,CO,Conejos County,America/Denver,719,NA,US,37.17,-105.99,370
+81149,STANDARD,0,Saguache,,,CO,Saguache County,America/Denver,719,NA,US,38.08,-106.14,630
+81151,STANDARD,0,Sanford,San Acacio,Lasauses,CO,Conejos County,America/Denver,719,NA,US,37.25,-105.9,1320
+81152,STANDARD,0,San Luis,"Garcia, Mesita, San Pablo","El Rito, Los Fuertes, San Francisco, San Pedro, Wildhorse Mesa",CO,Costilla County,America/Denver,719,NA,US,37.2,-105.42,920
+81153,PO BOX,1,San Pablo,"La Valley, Los Fuertes, San Francisco, San Pedro, El Rito",,CO,Costilla County,America/Denver,719,NA,US,37.12,-105.36,201
+81154,STANDARD,0,South Fork,,"Alpine, Masonic Park, Wagon Wheel Gap",CO,Rio Grande County,America/Denver,719,NA,US,37.67,-106.64,1070
+81155,STANDARD,0,Villa Grove,,Bonanza City,CO,Saguache County,America/Denver,719,NA,US,38.25,-105.95,190
+81157,PO BOX,0,Pagosa Springs,Pagosa Spgs,,CO,Archuleta County,America/Denver,970,NA,US,37.24,-107.03,661
+81201,STANDARD,0,Salida,"Poncha Spgs, Poncha Springs","Cleora, Maysville, Smeltertown, Swissvale, Turret, Wellsville",CO,Chaffee County,America/Denver,719,NA,US,38.53,-106,8620
+81210,STANDARD,0,Almont,,"Jacks Cabin, Rainbow, Spring Creek, Taylor Park, Tincup",CO,Gunnison County,America/Denver,970,NA,US,38.67,-106.83,240
+81211,STANDARD,0,Buena Vista,,Johnson Village,CO,Chaffee County,America/Denver,719,NA,US,38.83,-106.14,6970
+81212,STANDARD,0,Canon City,Brookside,"Buckskin Joe, Ilse, Parkdale, Penitentiary, Prospect Heights",CO,Fremont County,America/Denver,719,NA,US,38.44,-105.23,21700
+81215,PO BOX,0,Canon City,,,CO,Fremont County,America/Denver,719,NA,US,38.44,-105.23,1232
+81220,STANDARD,0,Cimarron,,,CO,Gunnison County,America/Denver,970,NA,US,38.37,-107.5,170
+81221,PO BOX,0,Coal Creek,,,CO,Fremont County,America/Denver,719,NA,US,38.36,-105.14,293
+81222,PO BOX,0,Coaldale,,,CO,Fremont County,America/Denver,719,NA,US,38.35,-105.83,290
+81223,STANDARD,0,Cotopaxi,,Texas Creek,CO,Fremont County,America/Denver,719,NA,US,38.37,-105.68,1720
+81224,STANDARD,0,Crested Butte,,Cement Creek,CO,Gunnison County,America/Denver,970,NA,US,38.87,-106.98,4680
+81225,PO BOX,0,Crested Butte,,"Crested Butte So, Meridian Lake, Mount Crested Butte, Mt Crested Butte, Riverbend, Skyland",CO,Gunnison County,America/Denver,970,NA,US,38.95,-106.9,156
+81226,STANDARD,0,Florence,,"Brewster, Portland, Williamsburg",CO,Fremont County,America/Denver,719,NA,US,38.38,-105.11,4900
+81227,PO BOX,0,Monarch,Salida,,CO,Chaffee County,America/Denver,719,NA,US,38.55,-106.29,0
+81228,STANDARD,0,Granite,Twin Lakes,,CO,Lake County,America/Denver,,NA,US,39.05,-106.27,18
+81230,STANDARD,0,Gunnison,,"Baldwin, Doyleville, Iola, Taylor Park",CO,Gunnison County,America/Denver,970,NA,US,38.54,-106.92,8280
+81231,UNIQUE,0,Gunnison,,Western State College,CO,Gunnison County,America/Denver,970,NA,US,38.55,-106.92,69
+81232,PO BOX,0,Hillside,,,CO,Fremont County,America/Denver,719,NA,US,38.29,-105.61,85
+81233,STANDARD,0,Howard,,,CO,Fremont County,America/Denver,719,NA,US,38.45,-105.84,790
+81235,STANDARD,0,Lake City,,,CO,Hinsdale County,America/Denver,970,NA,US,38.07,-107.3,660
+81236,STANDARD,0,Nathrop,,"Alpine Village, Iron City, Mount Princeton, Saint Elmo",CO,Chaffee County,America/Denver,719,NA,US,38.73,-106.08,1000
+81237,STANDARD,0,Ohio City,,,CO,Gunnison County,America/Denver,970,NA,US,38.6,-106.61,56
+81239,STANDARD,0,Parlin,,,CO,Gunnison County,America/Denver,970,NA,US,38.5,-106.72,57
+81240,STANDARD,0,Penrose,,,CO,Fremont County,America/Denver,719,NA,US,38.43,-105.01,3980
+81241,PO BOX,0,Pitkin,,,CO,Gunnison County,America/Denver,970,NA,US,38.6,-106.51,105
+81242,PO BOX,0,Poncha Springs,Poncha Spgs,,CO,Chaffee County,America/Denver,719,NA,US,38.51,-106.07,680
+81243,STANDARD,0,Powderhorn,,,CO,Gunnison County,America/Denver,970,NA,US,38.27,-107.08,108
+81244,PO BOX,0,Rockvale,,,CO,Fremont County,America/Denver,719,NA,US,38.36,-105.16,369
+81247,STANDARD,1,Gunnison,Sapinero,Windy Point,CO,Gunnison County,America/Denver,970,NA,US,38.54,-106.92,0
+81248,PO BOX,0,Sargents,,White Pine,CO,Saguache County,America/Denver,719,NA,US,38.4,-106.42,39
+81251,STANDARD,0,Twin Lakes,,,CO,Lake County,America/Denver,719,NA,US,39.1,-106.47,180
+81252,STANDARD,0,Westcliffe,Silver Cliff,"Horn Creek, Rosita, Tanglewood Acres",CO,Custer County,America/Denver,719,NA,US,38.13,-105.46,3780
+81253,STANDARD,0,Wetmore,,Greenwood,CO,Custer County,America/Denver,,NA,US,38.23,-105.08,350
+81290,UNIQUE,0,Florence,,Federal Correctional Complex,CO,Fremont County,America/Denver,719,NA,US,38.38,-105.11,0
+81301,STANDARD,0,Durango,,"College Heights Durango, Hermosa, Purgatory, Tamarron",CO,La Plata County,America/Denver,970,NA,US,37.27,-107.88,24830
+81302,PO BOX,0,Durango,,,CO,La Plata County,America/Denver,970,NA,US,37.27,-107.88,2877
+81303,STANDARD,0,Durango,,,CO,La Plata County,America/Denver,970,NA,US,37.14,-107.88,7030
+81320,STANDARD,0,Cahone,,,CO,Dolores County,America/Denver,970,NA,US,37.65,-108.82,290
+81321,STANDARD,0,Cortez,,"Arriola, Hovenweep National Monument",CO,Montezuma County,America/Denver,970,NA,US,37.35,-108.57,12280
+81323,STANDARD,0,Dolores,,"Dunton, Stoner",CO,Montezuma County,America/Denver,970,NA,US,37.47,-108.49,4150
+81324,STANDARD,0,Dove Creek,,Squaw Point,CO,Dolores County,America/Denver,970,NA,US,37.76,-108.9,1050
+81325,STANDARD,0,Egnar,Slick Rock,,CO,San Miguel County,America/Denver,970,NA,US,37.92,-108.93,82
+81326,STANDARD,0,Hesperus,,"Breen, Kline, Redmesa",CO,La Plata County,America/Denver,970,NA,US,37.28,-108.03,2010
+81327,STANDARD,0,Lewis,,,CO,Montezuma County,America/Denver,970,NA,US,37.5,-108.67,580
+81328,STANDARD,0,Mancos,,,CO,Montezuma County,America/Denver,970,NA,US,37.34,-108.29,3670
+81329,PO BOX,0,Marvel,,,CO,La Plata County,America/Denver,970,NA,US,37.12,-108.13,132
+81330,PO BOX,0,Mesa Verde National Park,Mesa Verde,,CO,Montezuma County,America/Denver,970,NA,US,37.18,-108.49,45
+81331,STANDARD,0,Pleasant View,,,CO,Montezuma County,America/Denver,970,NA,US,37.58,-108.76,300
+81332,PO BOX,0,Rico,,,CO,Dolores County,America/Denver,970,NA,US,37.7,-107.99,206
+81334,PO BOX,0,Towaoc,,Ute Mountain Indian Reservat,CO,Montezuma County,America/Denver,970,NA,US,37.2,-108.72,688
+81335,STANDARD,0,Yellow Jacket,,,CO,Montezuma County,America/Denver,970,NA,US,37.5,-108.76,185
+81401,STANDARD,0,Montrose,,Colona,CO,Montrose County,America/Denver,970,NA,US,38.49,-107.87,20400
+81402,PO BOX,0,Montrose,,,CO,Montrose County,America/Denver,970,NA,US,38.49,-107.87,1613
+81403,STANDARD,0,Montrose,,,CO,Montrose County,America/Denver,970,NA,US,38.3,-107.9,10570
+81410,STANDARD,0,Austin,Orchard City,,CO,Delta County,America/Denver,970,NA,US,38.8,-107.97,1520
+81411,STANDARD,0,Bedrock,,,CO,Montrose County,America/Denver,970,NA,US,38.25,-108.98,63
+81413,STANDARD,0,Cedaredge,,"Coalby, Grand Mesa",CO,Delta County,America/Denver,970,NA,US,38.89,-107.92,4540
+81414,PO BOX,0,Cory,,Orchard City,CO,Delta County,America/Denver,970,NA,US,38.77,-107.98,181
+81415,STANDARD,0,Crawford,Maher,,CO,Delta County,America/Denver,970,NA,US,38.7,-107.6,1330
+81416,STANDARD,0,Delta,,,CO,Delta County,America/Denver,970,NA,US,38.74,-108.07,11880
+81418,STANDARD,0,Eckert,,Orchard City,CO,Delta County,America/Denver,970,NA,US,38.84,-107.95,1330
+81419,STANDARD,0,Hotchkiss,,Rogers Mesa,CO,Delta County,America/Denver,970,NA,US,38.8,-107.71,3190
+81420,PO BOX,0,Lazear,,,CO,Delta County,America/Denver,970,NA,US,38.78,-107.77,71
+81422,STANDARD,0,Naturita,,,CO,Montrose County,America/Denver,970,NA,US,38.21,-108.56,410
+81423,PO BOX,0,Norwood,,,CO,San Miguel County,America/Denver,970,NA,US,38.13,-108.29,1294
+81424,STANDARD,0,Nucla,,,CO,Montrose County,America/Denver,970,NA,US,38.26,-108.55,940
+81425,STANDARD,0,Olathe,,,CO,Montrose County,America/Denver,970,NA,US,38.6,-107.98,4410
+81426,PO BOX,0,Ophir,,,CO,San Miguel County,America/Denver,970,NA,US,37.87,-107.89,148
+81427,PO BOX,0,Ouray,,Red Mountain,CO,Ouray County,America/Denver,970,NA,US,38.03,-107.64,1175
+81428,STANDARD,0,Paonia,,Bowie,CO,Delta County,America/Denver,970,NA,US,38.86,-107.59,3090
+81429,PO BOX,0,Paradox,,,CO,Montrose County,America/Denver,970,NA,US,38.37,-108.95,102
+81430,PO BOX,0,Placerville,,Sawpit,CO,San Miguel County,America/Denver,970,NA,US,38.02,-108.07,342
+81431,STANDARD,0,Redvale,,,CO,Montrose County,America/Denver,970,NA,US,38.18,-108.42,220
+81432,STANDARD,0,Ridgway,,,CO,Ouray County,America/Denver,970,NA,US,38.15,-107.75,2970
+81433,PO BOX,0,Silverton,,,CO,San Juan County,America/Denver,970,NA,US,37.82,-107.64,498
+81434,STANDARD,0,Somerset,,Bear Mine,CO,Gunnison County,America/Denver,970,NA,US,38.92,-107.43,119
+81435,STANDARD,0,Telluride,"Mountain Village, Mountain Vlg","Pandora, Sawpit",CO,San Miguel County,America/Denver,970,NA,US,37.94,-107.9,5030
+81501,STANDARD,0,Grand Junction,Grand Jct,,CO,Mesa County,America/Denver,970,NA,US,39.08,-108.55,15250
+81502,PO BOX,0,Grand Junction,Grand Jct,,CO,Mesa County,America/Denver,970,NA,US,39.08,-108.55,2169
+81503,STANDARD,0,Grand Junction,Grand Jct,,CO,Mesa County,America/Denver,970,NA,US,39.03,-108.43,14040
+81504,STANDARD,0,Grand Junction,"Fruitvale, Grand Jct",,CO,Mesa County,America/Denver,970,NA,US,39.08,-108.49,27990
+81505,STANDARD,0,Grand Junction,Grand Jct,Appleton,CO,Mesa County,America/Denver,970,NA,US,39.26,-108.53,10570
+81506,STANDARD,0,Grand Junction,Grand Jct,,CO,Mesa County,America/Denver,970,NA,US,39.11,-108.53,10440
+81507,STANDARD,0,Grand Junction,Grand Jct,,CO,Mesa County,America/Denver,970,NA,US,38.99,-108.66,14930
+81520,STANDARD,0,Clifton,,,CO,Mesa County,America/Denver,970,NA,US,39.07,-108.46,11870
+81521,STANDARD,0,Fruita,,Colorado National Monument,CO,Mesa County,America/Denver,970,NA,US,39.15,-108.72,15380
+81522,STANDARD,0,Gateway,,,CO,Mesa County,America/Denver,970,NA,US,38.68,-108.99,110
+81523,STANDARD,0,Glade Park,,,CO,Mesa County,America/Denver,970,NA,US,39,-108.73,700
+81524,STANDARD,0,Loma,,,CO,Mesa County,America/Denver,970,NA,US,39.2,-108.82,2190
+81525,STANDARD,0,Mack,,New Liberty,CO,Mesa County,America/Denver,970,NA,US,39.22,-108.87,910
+81526,STANDARD,0,Palisade,,East Orchard Mesa,CO,Mesa County,America/Denver,970,NA,US,39.1,-108.35,4600
+81527,STANDARD,0,Whitewater,,,CO,Mesa County,America/Denver,970,NA,US,38.98,-108.43,1890
+81601,STANDARD,0,Glenwood Springs,Glenwood Spgs,"Cardiff, Glenwood, West Glenwood",CO,Garfield County,America/Denver,970,NA,US,39.54,-107.33,13070
+81602,PO BOX,0,Glenwood Springs,Glenwood Spgs,Glenwood,CO,Garfield County,America/Denver,970,NA,US,39.54,-107.33,2258
+81610,STANDARD,0,Dinosaur,,"Blue Mountain, Massadona",CO,Moffat County,America/Denver,970,NA,US,40.24,-109,280
+81611,STANDARD,0,Aspen,,Aspen Gerbaz,CO,Pitkin County,America/Denver,970,NA,US,39.19,-106.82,6880
+81612,PO BOX,0,Aspen,,,CO,Pitkin County,America/Denver,970,NA,US,39.13,-106.84,4630
+81615,PO BOX,0,Snowmass Village,Snowmass Vlg,West Village,CO,Pitkin County,America/Denver,970,NA,US,39.19,-106.93,1692
+81620,PO BOX,0,Avon,Beaver Creek,,CO,Eagle County,America/Denver,970,NA,US,39.65,-106.53,10108
+81621,STANDARD,0,Basalt,,Ruedi,CO,Eagle County,America/Denver,970,NA,US,39.36,-107.02,6410
+81623,STANDARD,0,Carbondale,"El Jebel, Marble, Redstone",Crystal,CO,Garfield County,America/Denver,970,NA,US,39.39,-107.21,14270
+81624,STANDARD,0,Collbran,,Plateau City,CO,Mesa County,America/Denver,970,NA,US,39.23,-107.95,1000
+81625,STANDARD,0,Craig,,Lay,CO,Moffat County,America/Denver,970,NA,US,40.52,-107.55,9940
+81626,PO BOX,0,Craig,,,CO,Moffat County,America/Denver,970,NA,US,40.52,-107.55,1653
+81630,STANDARD,0,De Beque,,,CO,Mesa County,America/Denver,970,NA,US,39.33,-108.21,900
+81631,PO BOX,0,Eagle,,,CO,Eagle County,America/Denver,970,NA,US,39.65,-106.82,6643
+81632,STANDARD,0,Edwards,Cordillera,,CO,Eagle County,America/Denver,970,NA,US,39.65,-106.6,8110
+81633,STANDARD,0,Dinosaur,Elk Springs,,CO,Moffat County,America/Denver,970,NA,US,40.34,-108.43,0
+81635,STANDARD,0,Parachute,"Battlement Mesa, Btlmt Mesa","Grand Valley, Rulison",CO,Garfield County,America/Denver,970,NA,US,39.44,-108.05,6280
+81636,PO BOX,0,Battlement Mesa,"Btlmt Mesa, Parachute",,CO,Garfield County,America/Denver,970,NA,US,39.44,-108.02,87
+81637,STANDARD,0,Gypsum,,"Dotsero, Sweetwater",CO,Eagle County,America/Denver,970,NA,US,39.64,-106.94,7630
+81638,STANDARD,0,Hamilton,,Pagoda,CO,Moffat County,America/Denver,,NA,US,40.37,-107.6,132
+81639,STANDARD,0,Hayden,,,CO,Routt County,America/Denver,970,NA,US,40.48,-107.26,2120
+81640,STANDARD,0,Maybell,,"Browns Park, Greystone",CO,Moffat County,America/Denver,970,NA,US,40.67,-108.51,200
+81641,STANDARD,0,Meeker,,"Axel, Buford",CO,Rio Blanco County,America/Denver,970,NA,US,40.05,-107.89,3360
+81642,STANDARD,0,Meredith,,"Nast, Norrie",CO,Pitkin County,America/Denver,970,NA,US,39.27,-106.59,45
+81643,PO BOX,0,Mesa,,,CO,Mesa County,America/Denver,970,NA,US,39.17,-108.13,695
+81645,PO BOX,0,Minturn,Gilman,,CO,Eagle County,America/Denver,970,NA,US,39.58,-106.42,1097
+81646,PO BOX,0,Molina,,,CO,Mesa County,America/Denver,970,NA,US,39.18,-108.07,180
+81647,STANDARD,0,New Castle,,,CO,Garfield County,America/Denver,970,NA,US,39.58,-107.53,6710
+81648,STANDARD,0,Rangely,,,CO,Rio Blanco County,America/Denver,970,NA,US,40.08,-108.77,2100
+81649,PO BOX,0,Red Cliff,,,CO,Eagle County,America/Denver,970,NA,US,39.5,-106.36,226
+81650,STANDARD,0,Rifle,,"Antlers, Rio Blanco, Rulison",CO,Garfield County,America/Denver,970,NA,US,39.53,-107.77,12560
+81652,STANDARD,0,Silt,,,CO,Garfield County,America/Denver,970,NA,US,39.54,-107.65,5290
+81653,STANDARD,0,Slater,,,CO,Moffat County,America/Denver,970,NA,US,40.99,-107.37,16
+81654,STANDARD,0,Snowmass,,Old Snowmass,CO,Pitkin County,America/Denver,970,NA,US,39.33,-106.98,1020
+81655,PO BOX,0,Wolcott,,,CO,Eagle County,America/Denver,970,NA,US,39.78,-106.46,304
+81656,PO BOX,0,Woody Creek,,,CO,Pitkin County,America/Denver,970,NA,US,39.28,-106.9,419
+81657,STANDARD,0,Vail,,"East Vail, West Vail",CO,Eagle County,America/Denver,970,NA,US,39.64,-106.39,4010
+81658,PO BOX,0,Vail,,,CO,Eagle County,America/Denver,970,NA,US,39.64,-106.39,4276
