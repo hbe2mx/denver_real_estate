@@ -14,6 +14,7 @@ import geopy.distance
 from datetime import date
 import sqlite3
 from sklearn.ensemble import RandomForestRegressor
+exec(open('config.py').read())
 pd.options.mode.chained_assignment = None  # default='warn'
 
 def scraper(url):
@@ -94,13 +95,13 @@ def spider(url_list, pois):
         i=i+1
     
     ### - Read in Reference Data
-    os.chdir('C:\\Users\\cbarry\\Documents\\03000. Professional Development\\denver_real_estate\\source_data')
+    os.chdir(user_directory + '\\denver_real_estate\\source_data')
     edu_scores = pd.read_csv("Education_Scores_Colorado.csv").groupby('County').mean().reset_index()[['County', 'Rank score (2022)']].rename({'Rank score (2022)':'edu_rank_score_2022'}, axis=1)
     co_zips = pd.read_csv('colorado_zip_codes.csv')[['zip', 'county']]
     property_characteristics = pd.read_csv('real_property_residential_characteristics.csv')
     prop_char = property_characteristics.groupby('OWNER_CITY').agg({'TOTAL_VALUE': 'mean'}).reset_index()
 
-    os.chdir('C:\\Users\\cbarry\\Documents\\03000. Professional Development\\denver_real_estate')
+    os.chdir(user_directory + '\\denver_real_estate')
     
     ### - DataFrame Standardization
     df.addressZipcode = df.addressZipcode.astype(int)

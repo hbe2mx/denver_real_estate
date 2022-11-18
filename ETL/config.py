@@ -1,3 +1,5 @@
+user_directory='C:\\Users\\charl\\OneDrive\\Documents\\denver_real_estate'
+
 url_list = [
     'https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22usersSearchTerm%22%3A%22Westminster%2C%20CO%22%2C%22mapBounds%22%3A%7B%22west%22%3A-105.09244434667967%2C%22east%22%3A-104.99210827185057%2C%22south%22%3A39.82192558361923%2C%22north%22%3A39.87688193008983%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A14%2C%22customRegionId%22%3A%224921263332X1-CRc5jwsg5urqf2_vpzyi%22%7D',
     'https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22usersSearchTerm%22%3A%22Denver%2C%20CO%22%2C%22mapBounds%22%3A%7B%22west%22%3A-105.17088775348857%2C%22east%22%3A-105.07055167865947%2C%22south%22%3A39.76485746705134%2C%22north%22%3A39.819859453994965%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A14%2C%22customRegionId%22%3A%224921663332X1-CRc5jwsg5ukcxq_vpzyi%22%7D',
@@ -30,5 +32,5 @@ req_headers = {
     'accept-encoding': 'gzip, deflate, br',
     'accept-language': 'en-US,en;q=0.8',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'charlesbarry8895@gmail.com'
+    'user-agent': 'hbe2mx@virginia.edu'
 }
