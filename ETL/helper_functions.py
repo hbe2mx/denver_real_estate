@@ -197,8 +197,30 @@ def build_model():
     print('Mean Absolute Error:', round(np.mean(errors), 2), 'degrees.')
     
     cols=list(x.columns)
+
+    x2 = test[['beds', 'baths', 'area', 'addressCity',
+             'dist_to_downtown', 'dist_to_ski', 'dist_to_red_rocks',
+             'edu_rank_score_2022', 'average_home_value']]
+
+    x2 = pd.get_dummies(x2)
     
-    return rf, cols
+    y2 = test.unformattedPrice.astype(int)
+    
+    # Instantiate model with 1000 decision trees
+    rf2 = RandomForestRegressor(n_estimators = 1000, random_state = 49)
+    # Train the model on training data
+    rf2.fit(x2.fillna(0), y2.fillna(0));
+    
+    # Use the forest's predict method on the test data
+    predictions2 = rf2.predict(x2.fillna(0))
+    # Calculate the absolute errors
+    errors = abs(predictions2 - y2)
+    # Print out the mean absolute error (mae)
+    print('Mean Absolute Error:', round(np.mean(errors), 2), 'degrees.')
+    
+    cols2=list(x2.columns)
+    
+    return rf, cols, rf2, cols2
 
 def score_data(rf, cols):
     cursor = sqlite3.connect("denver_real_estate.db")
@@ -238,6 +260,48 @@ def score_data(rf, cols):
         df = df[['address', 'predictions']]
         
         df.to_sql("denver_prediction_values", cursor, if_exists="append")
+        cursor.close()
+    except:
+        print('No New Records For Scoring')
+
+def score_data_price(rf, cols):
+    cursor = sqlite3.connect("denver_real_estate.db")
+    df = pd.read_sql_query(
+        f'''
+            SELECT *
+            FROM denver_active_listings
+            WHERE address NOT IN (SELECT address FROM denver_prediction_values_price)
+        ''', cursor)
+    
+    try:
+        df.unformattedPrice = df.unformattedPrice.astype(float)
+        df.beds = df.beds.replace('null', 0).astype(int)
+        df.baths = df.baths.replace('null', 0).astype(float).astype(int)
+        df.area = df.area.replace('null', 0).astype(float)
+        df.addressCity = df.addressCity.astype("category")
+        df.dist_to_downtown = df.dist_to_downtown.astype(float)
+        df.dist_to_ski = df.dist_to_ski.astype(float)
+        df.dist_to_red_rocks = df.dist_to_red_rocks.astype(float)
+        df.edu_rank_score_2022 = df.edu_rank_score_2022.astype(float)
+        df.average_home_value = df.average_home_value.astype(float)
+
+        # y = df.rank_score
+        x = df[['beds', 'baths', 'area', 'addressCity',
+                'dist_to_downtown', 'dist_to_ski', 'dist_to_red_rocks',
+                'edu_rank_score_2022', 'average_home_value']]
+        x = pd.get_dummies(x)
+        
+        for col in cols:
+            if col not in set(list(x.columns)):
+                x[col] = 0
+                
+        x = x[cols].fillna(0)
+        
+        df['predictions_price'] = rf.predict(x)
+        
+        df = df[['address', 'predictions_price']]
+        
+        df.to_sql("denver_prediction_values_price", cursor, if_exists="append")
         cursor.close()
     except:
         print('No New Records For Scoring')

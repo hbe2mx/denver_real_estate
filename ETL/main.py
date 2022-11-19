@@ -30,14 +30,16 @@ os.chdir(user_directory + '\\denver_real_estate\\ETL')
 
 
 import helper_functions
-from helper_functions import scraper, spider, build_model, score_data
+from helper_functions import scraper, spider, build_model, score_data, score_data_price
 
 os.chdir(user_directory + '\\denver_real_estate')
 #Add New Records to Database and pull dataframe of latest data
 df = spider(url_list, pois)
 
 #Build Random Forest Model for Use in Scoring
-rf, cols = build_model()
+rf, cols, rf2, cols2 = build_model()
 
 #Score new data with Model
 score_data(rf, cols)
+
+score_data_price(rf2, cols2)
